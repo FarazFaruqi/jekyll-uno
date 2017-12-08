@@ -1,8 +1,8 @@
 # Site settings
 title: Faraz Faruqi
 description: Software Developer, AI Enthusiast, Pianist 
-url: 'http://farazfaruqi.github.com/'
-baseurl: '/FarazFaruqi.github.io'
+url: 'http://farazfaruqi.github.io/'
+baseurl: '/FarazFaruqi.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 

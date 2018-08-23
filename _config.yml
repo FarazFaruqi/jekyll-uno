@@ -23,7 +23,7 @@ defaults:
         layout: 'post'
 
 # Build settings
-destination: 'https://farazfaruqi.github.io/blog/'
+destination: '_site'
 paginate: 10
 permalink: /:year/:title/
 markdown: kramdown

@@ -13,4 +13,4 @@ I am a first year Computer Science Ph.D. student at MIT, where I am working with
 
 Prior to MIT, I have worked in pioneering research labs at CMU, Pittsburgh and IIIT Hyderabad, with specializations ranging from embodied conversational agents to natural language processing. As an undergraduate research student, I collaborated with graduate and post-graduate researchers in finding solutions to problems ranging from creating virtual collaborative agents to creating deep learning systems for classifying and generating humorous texts. 
 
-Interested in these topics and wanna chat? Send me an [email](mailto:ffaruqi@mit.edu) and I would be happy to Zoom! 
+Interested in these topics and wanna chat? Send me an [email](mailto:ffaruqi@mit.edu). 
